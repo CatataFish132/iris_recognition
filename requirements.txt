@@ -1,0 +1,4 @@
+click
+numba
+numpy
+opencv_contrib_python
